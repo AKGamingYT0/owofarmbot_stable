@@ -2,8 +2,10 @@
     "midoservices_authkey": "",
     "prefix": "!",
     "token": "",
-    "commandschannelid": "",
     "userid": "",
+    "commandschannelid": "",
+    "owodmchannelid": "",
+
     "commands": {
         "hunt": true,
         "battle": true,

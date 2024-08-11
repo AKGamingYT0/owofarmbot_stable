@@ -106,8 +106,9 @@ To get auth key, join the Discord server [here](https://discord.gg/WzYXVbXt6C), 
     "midoservices_authkey": "", / Mido services AUTH KEY
     "prefix": "", / SelfBot PREFIX
     "token": "", / SelfBot Token
-    "commandschannelid": "", / Farm Channel ID
     "userid": "", / SelfBot UserID
+    "commandschannelid": "", / Farm Channel ID
+    "owodmchannelid": "", / OwO DM Channel ID
     "commands": {
         "hunt": true, / true or false (boolean)
         "battle": true, / true or false (boolean)
